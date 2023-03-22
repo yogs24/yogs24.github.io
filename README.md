@@ -1,1 +1,1 @@
-# yogs24.github.io
+# palstudio.github.io
